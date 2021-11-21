@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T01:21:31.722Z" agent="5.0 (X11)" etag="fuicgmArjdypgddESw9E" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T02:14:25.741Z" agent="5.0 (X11)" etag="_r9yS4I3csSmYC80JXFR" version="15.8.3" type="github">
   <diagram id="AnAAGf5-JPKwQXKPZrEY" name="Page-1">
-    <mxGraphModel dx="981" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YL8E_OUzaNQfcNUTeiFk-1" value="&lt;div&gt;&lt;span style=&quot;left: 175.963px ; top: 1633.13px ; font-size: 24px ; font-family: sans-serif ; transform: scalex(1.09497)&quot; dir=&quot;ltr&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;1.7&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 250.342px ; top: 1633.13px ; font-family: sans-serif ; transform: scalex(0.987512)&quot; dir=&quot;ltr&quot;&gt;a)&lt;/span&gt;&lt;span style=&quot;left: 282.765px ; top: 1633.13px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 295.866px ; top: 1633.13px ; font-family: sans-serif ; transform: scalex(1.00236)&quot; dir=&quot;ltr&quot;&gt;Se quiere modelar mediante DER los datos de los empleados. De cada empleado&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 295.855px ; top: 1667.27px ; font-family: sans-serif ; transform: scalex(1.00751)&quot; dir=&quot;ltr&quot;&gt;se quiere conocer: legajo, nombre y apellido y de qué otro empleado depende.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 249.305px ; top: 1710.98px ; font-family: sans-serif ; transform: scalex(1.0033)&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 249.305px ; top: 1710.98px ; font-family: sans-serif ; transform: scalex(1.0033)&quot; dir=&quot;ltr&quot;&gt;b)&lt;/span&gt;&lt;span style=&quot;left: 282.765px ; top: 1710.98px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 295.866px ; top: 1710.98px ; font-family: sans-serif ; transform: scalex(1.03213)&quot; dir=&quot;ltr&quot;&gt;¿Cómo se modificaría la solución del ejercicio anterior si de los empleados que&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 295.855px ; top: 1745.12px ; font-family: sans-serif ; transform: scalex(1.00806)&quot; dir=&quot;ltr&quot;&gt;son jefes necesitáramos conocer su número de celular?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 251.189px ; top: 1788.83px ; font-family: sans-serif ; transform: scalex(1.00718)&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 251.189px ; top: 1788.83px ; font-family: sans-serif ; transform: scalex(1.00718)&quot; dir=&quot;ltr&quot;&gt;c)&lt;/span&gt;&lt;span style=&quot;left: 282.764px ; top: 1788.83px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 295.865px ; top: 1788.83px ; font-family: sans-serif ; transform: scalex(1.01456)&quot; dir=&quot;ltr&quot;&gt;A los datos mencionados en el ejercicio anterior se le quiere agregar la informa-&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 295.855px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.0255)&quot; dir=&quot;ltr&quot;&gt;ción&lt;/span&gt;&lt;span style=&quot;left: 345.951px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 355.942px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.01914)&quot; dir=&quot;ltr&quot;&gt;sobre&lt;/span&gt;&lt;span style=&quot;left: 422.509px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 432.476px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.0209)&quot; dir=&quot;ltr&quot;&gt;el&lt;/span&gt;&lt;span style=&quot;left: 453.966px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 463.957px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(0.999036)&quot; dir=&quot;ltr&quot;&gt;departamento&lt;/span&gt;&lt;span style=&quot;left: 632.011px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 642.002px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(0.989504)&quot; dir=&quot;ltr&quot;&gt;en&lt;/span&gt;&lt;span style=&quot;left: 671.127px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 681.094px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.0209)&quot; dir=&quot;ltr&quot;&gt;el&lt;/span&gt;&lt;span style=&quot;left: 702.584px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 712.575px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(0.995982)&quot; dir=&quot;ltr&quot;&gt;que&lt;/span&gt;&lt;span style=&quot;left: 756.78px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 766.771px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.01835)&quot; dir=&quot;ltr&quot;&gt;trabaja&lt;/span&gt;&lt;span style=&quot;left: 852.023px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 861.99px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(0.992902)&quot; dir=&quot;ltr&quot;&gt;cada&lt;/span&gt;&lt;span style=&quot;left: 918.354px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 928.345px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(0.991314)&quot; dir=&quot;ltr&quot;&gt;empleado.&lt;/span&gt;&lt;span style=&quot;left: 1051.58px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 1068.34px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.00605)&quot; dir=&quot;ltr&quot;&gt;De&lt;/span&gt;&lt;span style=&quot;left: 1101.18px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 1111.17px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.01695)&quot; dir=&quot;ltr&quot;&gt;los&lt;/span&gt;&lt;span style=&quot;left: 1144.99px ; top: 1822.97px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 1154.95px ; top: 1822.97px ; font-family: sans-serif ; transform: scalex(1.00214)&quot; dir=&quot;ltr&quot;&gt;departa-&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 295.855px ; top: 1857.12px ; font-family: sans-serif ; transform: scalex(1.00416)&quot; dir=&quot;ltr&quot;&gt;mentos queremos saber su código, nombre y quién es el gerente.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 295.855px ; top: 1857.12px ; font-family: sans-serif ; transform: scalex(1.00416)&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 295.855px ; top: 1857.12px ; font-family: sans-serif ; transform: scalex(1.00416)&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 249.305px ; top: 236.565px ; font-family: sans-serif ; transform: scalex(1.0033)&quot; dir=&quot;ltr&quot;&gt;d)&lt;/span&gt;&lt;span style=&quot;left: 282.765px ; top: 236.565px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 295.866px ; top: 236.565px ; font-family: sans-serif ; transform: scalex(0.994181)&quot; dir=&quot;ltr&quot;&gt;¿Cómo cambiaría el modelo si además de saber en qué departamento trabaja ac-&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 295.855px ; top: 270.71px ; font-family: sans-serif ; transform: scalex(1.01063)&quot; dir=&quot;ltr&quot;&gt;tualmente un empleado se quisiera saber en qué departamentos trabajó históri-&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 295.855px ; top: 304.855px ; font-family: sans-serif ; transform: scalex(0.989258)&quot; dir=&quot;ltr&quot;&gt;camente?&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 250.435px ; top: 348.561px ; font-family: sans-serif ; transform: scalex(0.982646)&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 250.435px ; top: 348.561px ; font-family: sans-serif ; transform: scalex(0.982646)&quot; dir=&quot;ltr&quot;&gt;e)&lt;/span&gt;&lt;span style=&quot;left: 282.764px ; top: 348.561px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 295.866px ; top: 348.561px ; font-family: sans-serif ; transform: scalex(1.02622)&quot; dir=&quot;ltr&quot;&gt;Hay una restricción implícita que indica que nadie puede ser gerente de un de-&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 295.855px ; top: 382.706px ; font-family: sans-serif ; transform: scalex(1.02379)&quot; dir=&quot;ltr&quot;&gt;partamento al que no pertenece.&lt;/span&gt;&lt;span style=&quot;left: 695.798px ; top: 382.706px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 711.349px ; top: 382.706px ; font-family: sans-serif ; transform: scalex(1.0341)&quot; dir=&quot;ltr&quot;&gt;El modelo propuesto ¿garantiza su cumplim-&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 295.855px ; top: 416.851px ; font-family: sans-serif ; transform: scalex(1.01417)&quot; dir=&quot;ltr&quot;&gt;iento? De no ser así ¿podría modificarlo para que lo garantice? En cualquiera de&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 295.855px ; top: 450.993px ; font-family: sans-serif ; transform: scalex(1.00883)&quot; dir=&quot;ltr&quot;&gt;los casos justifique su respuesta.&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 295.855px ; top: 1857.12px ; font-family: sans-serif ; transform: scalex(1.00416)&quot; dir=&quot;ltr&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="730" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-1" target="A_Vwg7Srse7Gccm00eQH-10">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;startArrow=none;" parent="1" source="kyy_RmjAOCptA2ulvK3X-5" target="A_Vwg7Srse7Gccm00eQH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=16;endArrow=none;endFill=0;startArrow=none;" parent="1" source="kyy_RmjAOCptA2ulvK3X-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="740" as="targetPoint" />
             <Array as="points">
@@ -19,37 +19,145 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-1" value="Empleado" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-1" value="Empleado" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="240" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-2" target="A_Vwg7Srse7Gccm00eQH-1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" parent="1" source="A_Vwg7Srse7Gccm00eQH-2" target="A_Vwg7Srse7Gccm00eQH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-2" value="Legajo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-2" value="&lt;u&gt;Legajo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="80" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-3" target="A_Vwg7Srse7Gccm00eQH-1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" parent="1" source="A_Vwg7Srse7Gccm00eQH-3" target="A_Vwg7Srse7Gccm00eQH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-3" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-3" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="80" y="720" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-4" target="A_Vwg7Srse7Gccm00eQH-1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" parent="1" source="A_Vwg7Srse7Gccm00eQH-4" target="A_Vwg7Srse7Gccm00eQH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-4" value="Apellido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-4" value="Apellido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="80" y="640" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;a)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;a)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="580" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-10">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;endArrow=none;endFill=0;" parent="1" source="A_Vwg7Srse7Gccm00eQH-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480.1428571428571" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_Vwg7Srse7Gccm00eQH-10" value="Depende de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="A_Vwg7Srse7Gccm00eQH-10" value="Depende de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="440" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-1" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="750" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-2" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="340" y="700" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-1" target="kyy_RmjAOCptA2ulvK3X-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="740" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="300" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-3" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="730" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-5" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="A_Vwg7Srse7Gccm00eQH-1" target="kyy_RmjAOCptA2ulvK3X-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.9999999999999" y="700" as="sourcePoint" />
+            <mxPoint x="440" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-7" value="Tiene como jefe a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="670" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-8" value="Tiene como dependiente" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="740" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-9" value="b)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="800" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kyy_RmjAOCptA2ulvK3X-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260.04761904761904" y="1040" as="targetPoint" />
+            <mxPoint x="260" y="940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kyy_RmjAOCptA2ulvK3X-13" target="kyy_RmjAOCptA2ulvK3X-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-13" value="Empleado" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="870" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="kyy_RmjAOCptA2ulvK3X-15" target="kyy_RmjAOCptA2ulvK3X-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-15" value="&lt;u&gt;Legajo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="870" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="kyy_RmjAOCptA2ulvK3X-17" target="kyy_RmjAOCptA2ulvK3X-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-17" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="910" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="kyy_RmjAOCptA2ulvK3X-19" target="kyy_RmjAOCptA2ulvK3X-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-19" value="Apellido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="830" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-47" value="d" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="960" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-52" value="Es jefe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="270" y="960" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-53" value="&lt;font style=&quot;font-size: 12px&quot;&gt;EmpleadoJefe&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kyy_RmjAOCptA2ulvK3X-54" target="kyy_RmjAOCptA2ulvK3X-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-54" value="Celular" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kyy_RmjAOCptA2ulvK3X-62" target="kyy_RmjAOCptA2ulvK3X-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-62" value="Depende de" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="440" y="870" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-66" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1040" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-68" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;fillColor=default;gradientColor=none;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="300" y="890" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-70" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-71" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kyy_RmjAOCptA2ulvK3X-72" value="c)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="1120" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
