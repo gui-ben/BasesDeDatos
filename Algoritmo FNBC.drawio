@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T00:25:51.980Z" agent="5.0 (X11)" etag="h0dXpiKlY4fvHlT1CnUv" version="15.8.3" type="github"><diagram id="U_IpD3sRhtiIfH9XHrqW" name="Page-1">ddHBDsIgDADQr+HOQKP3OfXiaQfPZK2DhK0Lw2z69W6BOYmacCivhZLCZN6MJ6c6fSFAywSHkckDEyLbCMHmxeERZJdFqJ2BWLRCaZ4YkUe9G8A+KfRE1psuxYraFiufmHKOhrTsRjbt2qkav6CslP3WqwGvg+63fPUzmlovnTMeM41aiiP0WgENHyQLJnNH5EPUjDnaeXjLXMK545/s+2EOW//jwBSsd0+b5Idk8QI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-23T00:59:05.188Z" agent="5.0 (X11)" etag="UqgmbnYmTsgyrhyFUh0H" version="15.8.3" type="github">
+  <diagram id="U_IpD3sRhtiIfH9XHrqW" name="Page-1">
+    <mxGraphModel dx="1422" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Ejemplo de FNBC con ejercicio parcial 2c 2021 de randy&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-3" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 68.0315px ; top: 296.24px ; font-family: sans-serif ; transform: scalex(0.884848)&quot; dir=&quot;ltr&quot;&gt;Sea el siguiente esquema de relación:&lt;/span&gt;&lt;span style=&quot;left: 494.794px ; top: 296.24px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 501.456px ; top: 296.24px ; font-family: sans-serif ; transform: scalex(0.973447)&quot; dir=&quot;ltr&quot;&gt;R(A,B,C,D,E)&lt;/span&gt;&lt;span style=&quot;left: 646.727px ; top: 296.24px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 653.389px ; top: 296.24px ; font-family: sans-serif ; transform: scalex(0.884097)&quot; dir=&quot;ltr&quot;&gt;y las siguientes dependencias funcionales:&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 74.6969px ; top: 328.64px ; font-family: sans-serif ; transform: scalex(0.97785)&quot; dir=&quot;ltr&quot;&gt;FD1: E → D, FD2:D → A y  FD3: A → BC&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 68.0315px ; top: 361.04px ; font-family: sans-serif ; transform: scalex(0.908845)&quot; dir=&quot;ltr&quot;&gt;Se pide&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;left: 111.232px ; top: 393.44px ; font-family: sans-serif ; transform: scalex(0.886481)&quot; dir=&quot;ltr&quot;&gt;a)&lt;/span&gt;&lt;span style=&quot;left: 132.566px ; top: 393.44px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 154.432px ; top: 393.44px ; font-family: sans-serif ; transform: scalex(0.895841)&quot; dir=&quot;ltr&quot;&gt;Hallar todas las claves de R&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="790" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-4" value="&lt;div&gt;a) Computo los atributos que no están en ningún lado derecho del conjunto de dependencias funcionales:&lt;/div&gt;&lt;div&gt;E+ = D&lt;/div&gt;&lt;div&gt;ED+ = EDA&lt;/div&gt;&lt;div&gt;EDA+ = EDABC = E es superclave minima y minimal&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="460" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;b) &lt;span style=&quot;left: 111.232px ; top: 587.84px ; font-family: sans-serif ; transform: scalex(0.867262)&quot; dir=&quot;ltr&quot;&gt;b)&lt;/span&gt;&lt;span style=&quot;left: 132.566px ; top: 587.84px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 154.432px ; top: 587.84px ; font-family: sans-serif ; transform: scalex(0.888656)&quot; dir=&quot;ltr&quot;&gt;Descomponer en FNBC sin pérdida de información usando el algoritmo de descomposición binaria&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry y="450" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-6" value="ABCDE (Clave E)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NJXmGZfXKT6D_1BJAKLl-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NJXmGZfXKT6D_1BJAKLl-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-7" value="D -&amp;gt; A rompe BC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-9" value="R1 = DA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NJXmGZfXKT6D_1BJAKLl-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="NJXmGZfXKT6D_1BJAKLl-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-11" value="R2 = ABCDE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-14" value="R3 = ABC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-15" value="R4 = ED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="800" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NJXmGZfXKT6D_1BJAKLl-16" value="=&amp;gt; ro = {(D, A), (A,B,C), (E,D)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="45" y="900" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
