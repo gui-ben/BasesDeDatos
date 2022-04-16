@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T23:50:43.751Z" agent="5.0 (X11)" version="17.1.5" etag="iyuoMSUzGLHoz6SFY4kX" type="github"><diagram id="jiV9cO5r-LcXlaho8VfQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-16T00:11:55.978Z" agent="5.0 (X11)" etag="YMOcOJQLEfkhKaO3YkyI" version="17.1.5" type="github">
+  <diagram id="jiV9cO5r-LcXlaho8VfQ" name="Page-1">
+    <mxGraphModel dx="1087" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-1" value="&lt;span style=&quot;left: 136.86px ; top: 607.363px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.09334)&quot; dir=&quot;ltr&quot;&gt;1.1.&lt;/span&gt;&lt;span style=&quot;left: 175.127px ; top: 607.363px ; font-size: 18.3271px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 185.31px ; top: 607.363px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.04736)&quot; dir=&quot;ltr&quot;&gt;Una compañía de seguros de automóviles tiene clientes que pueden poseer uno o&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 633.92px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.02145)&quot; dir=&quot;ltr&quot;&gt;más vehículos cada uno.&lt;/span&gt;&lt;span style=&quot;left: 416.854px ; top: 633.92px ; font-size: 18.3271px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 429.207px ; top: 633.92px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.03718)&quot; dir=&quot;ltr&quot;&gt;Cada vehículo tiene asociado cero a cualquier número de&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 660.477px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.00189)&quot; dir=&quot;ltr&quot;&gt;accidentes registrados. Cada póliza de seguro cubre uno o más vehículos, y tiene uno&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 687.032px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(0.99392)&quot; dir=&quot;ltr&quot;&gt;o más pagos de las primas asociadas con ella. Cada pago es por un período de tiempo&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 713.589px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(0.996925)&quot; dir=&quot;ltr&quot;&gt;determinado , y tiene una fecha de vencimiento asociada, y la fecha en que se recibió&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 740.146px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.01507)&quot; dir=&quot;ltr&quot;&gt;el pago. Discuta diferentes alternativas de vinculación entre póliza y vehículo.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="810" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hWvpgfgoWBTMj0xnObXc-2" target="hWvpgfgoWBTMj0xnObXc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-2" value="&lt;div&gt;Cliente&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-3" value="Vehículo" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hWvpgfgoWBTMj0xnObXc-4" target="hWvpgfgoWBTMj0xnObXc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-4" value="Póliza" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hWvpgfgoWBTMj0xnObXc-5" target="hWvpgfgoWBTMj0xnObXc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-5" value="Posee" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=none;" edge="1" parent="1" source="hWvpgfgoWBTMj0xnObXc-6" target="hWvpgfgoWBTMj0xnObXc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-6" value="&lt;u&gt;idCliente&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hWvpgfgoWBTMj0xnObXc-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="310" as="sourcePoint" />
+            <mxPoint x="120" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="hWvpgfgoWBTMj0xnObXc-13" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="470" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-13" value="Número de accidentes" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-15" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="150" y="360" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="hWvpgfgoWBTMj0xnObXc-17" parent="1" target="hWvpgfgoWBTMj0xnObXc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="510" as="sourcePoint" />
+            <mxPoint x="120" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-17" value="&lt;u&gt;patente&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="hWvpgfgoWBTMj0xnObXc-19" target="hWvpgfgoWBTMj0xnObXc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-19" value="&lt;u&gt;número&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hWvpgfgoWBTMj0xnObXc-21" target="hWvpgfgoWBTMj0xnObXc-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-21" value="Cubre" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-24" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="415" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hWvpgfgoWBTMj0xnObXc-25" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="230" y="380" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
