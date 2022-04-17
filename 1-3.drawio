@@ -1,14 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T00:26:00.743Z" agent="5.0 (X11)" etag="JXFrOI5Z0_zs0nMzIgqt" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T00:41:56.192Z" agent="5.0 (X11)" etag="4jtvrqdAYj4YONEvy7Fy" version="17.4.5" type="github">
   <diagram id="OEoAqQgyCho87mAHerYd" name="Page-1">
-    <mxGraphModel dx="1952" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uaStqOVcsycaUHKqPFSQ-1" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 136.86px ; top: 1065.74px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.09334)&quot; dir=&quot;ltr&quot;&gt;1.3.&lt;/span&gt;&lt;span style=&quot;left: 175.127px ; top: 1065.74px ; font-size: 18.3271px ; font-family: sans-serif&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span style=&quot;left: 185.31px ; top: 1065.74px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(0.994086)&quot; dir=&quot;ltr&quot;&gt;Se desea informatizar la gestión de una empresa de transportes que reparte paquetes&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1092.3px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(0.995316)&quot; dir=&quot;ltr&quot;&gt;por todo el país. Los encargados de llevar los paquetes son los camioneros, de los que&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1118.86px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.01462)&quot; dir=&quot;ltr&quot;&gt;se quiere guardar el dni, nombre, apellido, teléfono, dirección, salario y población en&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1145.41px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(0.9965)&quot; dir=&quot;ltr&quot;&gt;la que vive.&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1171.97px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.03691)&quot; dir=&quot;ltr&quot;&gt;De los paquetes transportados interesa conocer el código de paquete, descripción,&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1198.52px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.01957)&quot; dir=&quot;ltr&quot;&gt;destinatario y dirección del destinatario. Un camionero distribuye muchos paquetes,&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1225.08px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.01141)&quot; dir=&quot;ltr&quot;&gt;y un paquete sólo puede ser distribuido por un camionero.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1251.64px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.01968)&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 185.31px ; top: 1251.64px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.01968)&quot; dir=&quot;ltr&quot;&gt;De las provincias a las que llegan los paquetes interesa guardar el código de provin-&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1278.19px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.03802)&quot; dir=&quot;ltr&quot;&gt;cia y el nombre. Un paquete sólo puede llegar a una provincia. Sin embargo, a una&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1304.75px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.012)&quot; dir=&quot;ltr&quot;&gt;provincia pueden llegar varios paquetes.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1331.31px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.03907)&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;left: 185.31px ; top: 1331.31px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.03907)&quot; dir=&quot;ltr&quot;&gt;De los camiones que llevan los camioneros, interesa conocer la matrícula, modelo,&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1357.86px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.03535)&quot; dir=&quot;ltr&quot;&gt;tipo y potencia. Un camionero puede conducir diferentes camiones en fechas difer-&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;left: 185.31px ; top: 1384.42px ; font-size: 18.3271px ; font-family: sans-serif ; transform: scalex(1.0065)&quot; dir=&quot;ltr&quot;&gt;entes, y un camión puede ser conducido por varios camioneros.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-850" y="40" width="850" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="uaStqOVcsycaUHKqPFSQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uaStqOVcsycaUHKqPFSQ-3" target="uaStqOVcsycaUHKqPFSQ-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uaStqOVcsycaUHKqPFSQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=none;" edge="1" parent="1" target="uaStqOVcsycaUHKqPFSQ-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="540" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uaStqOVcsycaUHKqPFSQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uaStqOVcsycaUHKqPFSQ-3" target="uaStqOVcsycaUHKqPFSQ-13">
           <mxGeometry relative="1" as="geometry">
@@ -174,7 +176,7 @@
         <mxCell id="uaStqOVcsycaUHKqPFSQ-42" value="Distribuye" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-450" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uaStqOVcsycaUHKqPFSQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uaStqOVcsycaUHKqPFSQ-45" target="uaStqOVcsycaUHKqPFSQ-11">
+        <mxCell id="uaStqOVcsycaUHKqPFSQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="1" source="uaStqOVcsycaUHKqPFSQ-66" target="uaStqOVcsycaUHKqPFSQ-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-170" y="769.9999999999998" as="sourcePoint" />
           </mxGeometry>
@@ -187,7 +189,7 @@
         </mxCell>
         <mxCell id="uaStqOVcsycaUHKqPFSQ-50" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-600" y="580" as="offset" />
+            <mxPoint x="-592" y="607" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uaStqOVcsycaUHKqPFSQ-51" value="M" style="resizable=0;html=1;align=left;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="1">
@@ -204,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uaStqOVcsycaUHKqPFSQ-54" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="600" width="20" height="20" as="geometry" />
+          <mxGeometry x="-190" y="590" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uaStqOVcsycaUHKqPFSQ-55" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1" relative="1" as="geometry">
@@ -216,6 +218,24 @@
         </mxCell>
         <mxCell id="uaStqOVcsycaUHKqPFSQ-58" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-850" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uaStqOVcsycaUHKqPFSQ-60" value="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Camionero(&lt;span style=&quot;background-color: rgb(255 , 217 , 102)&quot;&gt;DNI&lt;/span&gt;, Nombre, Apellido, Teléfono, Dirección, Salario, Población)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Paquete(&lt;span style=&quot;background-color: rgb(255 , 217 , 102)&quot;&gt;Código&lt;/span&gt;, Descripción, Destinatario, Dirección_destinatario, &lt;u&gt;DNI_camionero&lt;/u&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Camión(&lt;span style=&quot;background-color: rgb(255 , 217 , 102)&quot;&gt;Matrícula&lt;/span&gt;, Modelo, Tipo, Potencia)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Provincia(&lt;span style=&quot;background-color: rgb(255 , 217 , 102)&quot;&gt;Código&lt;/span&gt;, Nombre, &lt;u&gt;Código_paquete&lt;/u&gt;)&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Conduce(&lt;span style=&quot;background-color: rgb(255 , 217 , 102)&quot;&gt;&lt;u&gt;DNI&lt;/u&gt;&lt;/span&gt;, &lt;span style=&quot;background-color: rgb(255 , 217 , 102)&quot;&gt;&lt;u&gt;Matrícula&lt;/u&gt;&lt;/span&gt;, Fecha)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="1090" width="610" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uaStqOVcsycaUHKqPFSQ-66" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="840" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uaStqOVcsycaUHKqPFSQ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uaStqOVcsycaUHKqPFSQ-45" target="uaStqOVcsycaUHKqPFSQ-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="720" as="sourcePoint" />
+            <mxPoint x="-170" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaStqOVcsycaUHKqPFSQ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uaStqOVcsycaUHKqPFSQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-610" y="540" as="sourcePoint" />
+            <mxPoint x="-589.9999999999956" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
